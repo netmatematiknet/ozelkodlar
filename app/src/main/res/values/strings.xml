@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Geri Tusu</string>
+    <string name="action_settings">Ayarlar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_1">Başlık 1</string>
+    <string name="title_2">Başlık 2</string>
+    <string name="lorem_ipsum">        vestibulum.     </string>
+
+    <string name="button1">İnternet VAR MI?</string>
+    <string name="button2">İnternet Hız Kontrolü</string>
+    <string name="button3">İnternet Wifimi Gsm mi?</string>
+    <string name="button4">OnBackPressed (onBackPressedDispatcher)</string>
+    <string name="button5">OnBackPressed (OnBackPressedCallback)</string>
+    <string name="button6">Merhaba Toolbar Örneği</string>
+    <string name="button7">Toolbar Material Örneği</string>
+    <string name="button8">Toolbar Material Örneği 2</string>
+
+
+
+
+    <string name="merhaba_toolbar_rne_i">Merhaba, Toolbar Örneği</string>
+    <string name="toolbar_baslik_1">Başlık 1</string>
+    <string name="toolbar_baslik_2">Başlık 2</string>
+    <string name="ba_l_k">Başlık</string>
+    <string name="geri">Geri</string>
+
+    <string name="logo_description">Uygulama Logosu</string>
+    <string name="todo">TODO</string>
+    <string name="ba_l_k_1">Başlık 1</string>
+    <string name="ba_l_k_2">Başlık 2</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="logo_g_ster">Logo Göster</string>
+    <string name="a_klama_buraya_yaz_lacak">Açıklama buraya yazılacak</string>
+
+
+    <string name="home_description">Home Button</string>
+
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#370395</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="toolbar_color">#2196F3</color>
+    <color name="shadow_color">#44000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+
+
+
+
+    <color name="black">#FF000000</color>
+    <color name="toolbar">#673AB7</color>
+
+    <color name="navy">#000080</color>
+
+    <color name="Primary">#6200EE</color>
+    <color name="Accent">#FF9800</color>
+
+</resources>

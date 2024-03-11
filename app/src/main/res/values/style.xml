@@ -1,0 +1,92 @@
+<resources>
+    <!--https://www.geeksforgeeks.org/theming-floating-action-buttons-in-android-with-example/?ref=rp-->
+    <style name="PopopMenu" parent="ThemeOverlay.AppCompat.Dark" />
+    <style name="Toolbar_Stil_1" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimaryDark">#26418f</item>        <!-- Statusbar rengi. seçilir -->
+        <item name="android:colorPrimaryDark">#26418f</item>      <!-- Statusbar rengi seçilir -->
+    </style>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryDark">@color/navy</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+
+
+
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="CustomRadioTheme" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:colorControlNormal">#7a7a7a</item>
+        <item name="android:colorControlActivated">#FF9800</item>
+        <item name="android:colorControlHighlight">#FF9800</item>
+    </style>
+
+
+
+
+
+
+    <style name="FloatingButton_Uniteler" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@android:color/holo_green_dark</item>
+    </style>
+
+
+
+
+    <style name="Widget.CardContent" parent="android:Widget">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+
+
+
+
+    <!-- UYGULAMALARIM -->
+    <style name="Toolbar_Stil_UYGULAMALAR" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimaryDark">#003c8f</item>        <!-- Statusbar rengi. seçilir -->
+        <item name="android:colorPrimaryDark">#003c8f</item>      <!-- Statusbar rengi seçilir -->
+
+        <item name="colorPrimary">#1565c0</item>        <!-- Toolbar rengi seçilir -->
+        <item name="android:colorPrimary">#1565c0</item>      <!-- Toolbar rengi seçilir -->
+        <item name="android:background">#1565c0</item>      <!--Toolbar daki  Arka Plan RENGİ-->
+
+        <item name="colorAccent">#880e4f</item>      <!-- ikinci ana renk. Ayrıca checkbox, radio button da da kullanılır -->
+        <item name="android:colorAccent">#880e4f</item>        <!-- İkinci ana renk. Ayrıca checkbox, radio button da da kullanılır -->
+
+        <item name="colorControlHighlight">#bc477b</item>      <!--  ripple efektinin rengi rengi. -->
+        <item name="colorControlActivated">#bc477b</item>      <!-- Edittext altçizgi rengi, radio button,switch ve checkbox activated rengi -->
+
+        <item name="actionMenuTextColor">#009688</item>
+        <item name="android:titleTextColor">#009688</item>
+
+        <item name="android:textColor">#FFFFFF</item>      <!-- toolbar_uygulama_2.xml deki Toolbardaki TEXTVİEW deki Yazı Rengi ve Toolbar daki ALT MENÜDEKİ yazı rengi-->
+        <item name="android:colorBackground">#FFFFFF</item>      <!--Toolbar daki  Alt menü Arka Plan RENGİ-->
+
+        <item name="android:textColorPrimary">#000000</item>     <!--uygulama_toolbar_2_2.xml deki  app:title-->
+        <item name="android:textColorSecondary">#000000</item>    <!--uygulama_toolbar_2_2.xml deki  app:subtitle-->
+    </style>
+    <!-- UYGULAMALARIM -->
+</resources>
